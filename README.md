@@ -1,4 +1,4 @@
-# Hi, Eu sou Hiago Victor! 👋
+# Olá, Eu sou Hiago Victor! 👋
 
 ## Sobre Mim
 - 👨‍🎓 Atualmente estudando Sistemas de Informação na Universidade Federal do Piauí (UFPI).
