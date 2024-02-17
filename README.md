@@ -12,8 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoVictor0&layout=compact&langs_count=4&theme=dark&bg_color=0A0A0A)](https://github.com/HiagoVictor0/github-readme-stats)
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Vamos Conectar!
 - Email: hiagovictorbbd1@gmail.com
